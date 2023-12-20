@@ -10,7 +10,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 	//const url = 'https://www.youtube.com/watch?v=' + videoId
 	m.react('🎧') 
 	let play = `
-	≡ *FG MUSIC*
+	≡ *𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃𝐕3 / 𝐌𝐮𝐬𝐢𝐜*
 ┌──────────────
 ▢ 📌 *${mssg.title()}* : ${title}
 ▢ 📆 *${mssg.uploud()}:* ${ago}

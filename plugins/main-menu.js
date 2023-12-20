@@ -25,24 +25,25 @@ let tags = {
   'nsfw': 'NSFW +18',
   'ansfw': 'NSFW ANIME', 
   'owner': 'OWNER', 
-  'advanced': 'AVANZADO',
+  'advanced': 'AVANZADO'
 }
 const defaultMenu = {
   before: `
-◈ ━━━━━ *Senna  ┃ ᴮᴼᵀ* ━━━━━ ◈
+❣︎✿︎✿︎✿︎✿︎✿︎︎𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃𝐕3✿︎✿︎✿︎✿︎✿❣︎
  
-👋🏻 Hola! *%name*
-👥 Usuarios : %totalreg
-🟢 Tiempo activo : %muptime
+👑 𝑯𝒐𝒍𝒂 *%name*
+👑 𝑹𝒆𝒈𝒖𝒊𝒔𝒕𝒓𝒂𝒅𝒐𝒔 : %totalreg
+👑 𝑻𝒊𝒆𝒎𝒑𝒐 𝑨𝒄𝒕𝒊𝒗𝒐 : %muptime
 %sbot
-▢ Descarga *FGWhatsApp*
-• https://fgmods.xyz
+👑 𝑶𝒘𝒏𝒆𝒓 : 𝐴𝑑𝑟𝑖𝑎𝑛𝑂𝑓𝑖𝑐𝑖𝑎𝑙
+👑 𝑮𝒊𝒕𝒉𝒖𝒃 : https://github.com/TheDiosBot-MD
+👑 𝑺𝒆𝒓𝒗𝒊𝒄𝒊𝒐𝒔 : 𝐴𝑐𝑡𝑖𝑣𝑜𝑠 𝑎𝑛𝑑 𝑆𝑡𝑎𝑡𝑢𝑠 𝑂𝑓𝑙𝑖𝑛𝑒
 ────────────
 %readmore
-  ≡ *LISTA DE MENUS*
+  ≡ *𝑳𝒊𝒔𝒕 𝑴𝒆𝒏𝒖 / 𝑳𝒊𝒔𝒕𝒂 𝒅𝒆 𝑴𝒆𝒏𝒖*
 
-Ⓟ = Premium
-ⓓ = Diamantes
+Ⓟ = 𝑷𝒓𝒆𝒎𝒊𝒖𝒏
+ⓓ = 𝑫𝒊𝒂𝒎𝒂𝒏𝒕𝒆𝒔
 `.trimStart(),
   header: '┌─⊷ *%category*',
   body: '▢ %cmd %isdiamond %isPremium',
@@ -111,7 +112,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let header = conn.menu.header || defaultMenu.header
     let body = conn.menu.body || defaultMenu.body
     let footer = conn.menu.footer || defaultMenu.footer
-    let after = conn.menu.after || (conn.user.jid == conn.user.jid ? '' : `⭐ Powered by FG98 https://wa.me/${conn.user.jid.split`@`[0]}`) + defaultMenu.after
+    let after = conn.menu.after || (conn.user.jid == conn.user.jid ? '' : `⭐ Powered by The-DiosBot-MD https://wa.me/${conn.user.jid.split`@`[0]}`) + defaultMenu.after
     let _text = [
       before,
       ...Object.keys(tags).map(tag => {
@@ -157,7 +158,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     ], m, rpl)*/
     conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m, null, rcanal)
   
-    m.react('📚') 
+    m.react('🌸') 
     
   } catch (e) {
     conn.reply(m.chat, '❎ Lo sentimos, el menú tiene un error', m)

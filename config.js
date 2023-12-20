@@ -3,12 +3,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5491168352204']
+  ['595994836199', 'The-MikuBot-MDV3', true],
+  ['595986637644', 'The-MikuBot-MDV3',true],
+  ['595971253989', 'The-MikuBot-MDV3',true],
+  ['595994825505', 'The-MikuBot-MDV3',true],
+  ['595976126756', 'The-MikuBot-MDV3',true],
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.prems = ['595994836199']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -20,22 +23,22 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃' 
+global.author = '𝐴𝑑𝑟𝑖𝑎𝑛𝑂𝑓𝑖𝑐𝑖𝑎𝑙' 
 
 //--info FG
-global.botName = 'Senna'
-global.fgig = 'https://www.instagram.com/fg98_ff' 
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
-global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
+global.botName = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃𝐕3'
+global.fgig = 'https://www.instagram.com/adri.analegresanchez' 
+global.fgsc = 'https://github.com/The-DiosBot-MD/The-MikuBot-MDV3' 
+global.fgyt = 'https://youtube.com/AdrianOficial905'
+global.fgpyp = 'https://paypal.me/AdrianOficial'
+global.fglog = 'https://i.ibb.co/r7C0TNP/The-Miku-Bot-MD.jpgs'
 
 //--- Grupos WA
-global.fgcanal = 'https://whatsapp.com/channel/0029VaCeuZd6mYPQiWqxXj1F'
-global.bgp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
-global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
-global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
+global.fgcanal = 'https://whatsapp.com/channel/0029VaHgHki89inchum6qg3T'
+global.bgp = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI'
+global.bgp2 = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI'
+global.bgp3 = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //--GP NSFW
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
 global.rwait = '⌛'
@@ -45,7 +48,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '2' // máxima advertencias
+global.maxwarn = '3' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {

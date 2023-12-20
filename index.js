@@ -24,12 +24,12 @@ const rl = createInterface(process.stdin, process.stdout)
 const app = express()
 const port = process.env.PORT || 8080;
 
-say('Senna FG98', {
+say('The-MikuBot-MDV3 -- AdrianOficial', {
   font: 'pallet',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`senna-bot By FG98 Ig: @fg98_ff`, {
+say(`The-MikuBot-MD By AdrianOficial Ig: @adri.analegresanchez`, {
   font: 'console',
   align: 'center',
   gradient: ['cyan', 'magenta']
@@ -123,3 +123,4 @@ async function start(file) {
 }
 
 start('main.js')
+

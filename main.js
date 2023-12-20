@@ -1,4 +1,4 @@
-   
+// The-DiosBot-MD and AdrianOficial ^^ The-MikuBot-MDV3
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 import './config.js'; 
 import { createRequire } from "module"; // Bring in the ability to create the 'require' method
@@ -94,7 +94,7 @@ const connectionOptions = {
 	    version,
         printQRInTerminal: true,
         auth: state,
-        browser: ['senna-bot', 'Safari', '1.0.0'], 
+        browser: ['MikubotV3', 'Safari', '3.0.0'], 
 	      patchMessageBeforeSending: (message) => {
                 const requiresPatch = !!(
                     message.buttonsMessage 

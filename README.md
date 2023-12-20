@@ -1,94 +1,129 @@
- 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=FG98F&color=brightgreen" />
-<p/>
-<p align="center">
-<a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/Senna Bot-black?style=for-the-badge&logo=whatsApp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/FG98F?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/senna-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/senna-bot?&style=social"></a>
-<a href="https://github.com/FG98F/senna-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/senna-bot?style=social"></a>
-<a href="https://github.com/FG98F/senna-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/senna-bot?label=Watching&style=social"></a>
-</p>
+# `The-MikuBot-MDV3` 
+
+### `▢ CUENTA OFICIAL`
+
+[  ] https://www.instagram.com/@adri.analegresanchez
+
+### `▢ GRUPO OFICIAL`
+
+<a href="https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(ES)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+ ### `▢ BOTS OFICIALES`
+
+<a href="https://api.whatsapp.com/send/?phone=595994825505&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<a href="https://api.whatsapp.com/send/?phone=595982216131&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+### `▢ DONAR`
+- SE AGRADECE CUAQLQUIER AYUDA VOLUNTARIA YA SEA CON UN NUMERO PARA EL BOT ETC.
+
+### `▢ PLUGINS`
+- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
+
+### `▢ AJUSTES`
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/The-DiosBot-MD/The-MikuBot-MDV3/fork)
+- CAMBIAR NÚMERO DEL PROPIETARIO(A) [Aqui](https://github.com/The-DiosBot-MD/The-MikuBot-MDV3/blob/master/config.js)
+  
+### `▢ ACTIVAR EN KOYEB`
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/The-DiosBot-MD/The-MikuBot-MDV3&branch=master&name=mysticbot)
+  
+### `▢ ACTIVAR EN REPLIT`
+
+[![Run on Repl.it](https://repl.it/badge/github/The-DiosBot-MD/The-MikuBot-MDV3)](https://repl.it/github/The-DiosBot-MD/The-MikuBot-MDV3) 
+  
+### `▢ ACTIVAR EN RENDER`
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FThe-DiosBot-MD%2FThe-MikuBot-MDV3) 
+
+### `▢ ACTIVAR EN ZIPPONODES`
+<a href="https://www.zipponodes.com"><img src="https://cdn.zipponodes.com/zipponodes/logos/logo_zipponodes_transparent2.png" width="350" height="130" alt="PNG"/></a>
+- Sitio web: [zipponodes.com](https://www.zipponodes.com)
+- Dash: [dash.zipponodes.com](https://dash.zipponodes.com)
+- Panel: [panel.zipponodes.com](https://panel.zipponodes.com)
+- Documentación: [docs.zipponodes.com](https://docs.zipponodes.com)
+- Grupo de WhatsApp: [whatsapp.zipponodes.com](https://whatsapp.zipponodes.com)
+
+### `▢ ACTIVAR EN BOXMINEHOST`
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/The-DiosBot-MD/The-MikuBot-MDV3/master/src/nuevobot.jpg" width="450" height="240" alt="JPG"/></a>
+- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
+- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
+- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
+- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
+- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
 
 
+### `▢ ACTIVAR EN VORTEXUS`
+<a href="https://dash.vortexuscloud.com"><img src="https://raw.githubusercontent.com/The-DiosBot-MD/The-MikuBot-MDV3/master/src/nuevobot.jpg" width="450" height="240" alt="JPG"/></a>
+- Pagina Oficial: [https://dash.vortexuscloud.com](https://dash.vortexuscloud.com)
+- Dashboard: [https://dash.vortexuscloud.com](https://dash.vortexuscloud.com)
+- Panel: [https://cloud.vortexuscloud.com](https://cloud.vortexuscloud.com)
 
-<h3 align="center">WHATSAPP BOT</h3>
-
-***
-### Información
-- Cambie número de dueño en [Config](https://github.com/FG98F/senna-bot/blob/main/config.js#L6)
-- Puede cambiar a la última versión de baileys editando el package.json [esta sección](https://github.com/FG98F/senna-bot/blob/main/package.json#L42)
-
-
-### CONTACTOS
-<p>
-<a href="https://whatsapp.com/channel/0029VaCeuZd6mYPQiWqxXj1F" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-
- <a href="http://www.instagram.com/fg98_ff" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://m.facebook.com/fg98f" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
-
-</p> 
-
-### API REST
--  [click aquí](https://api.fgmods.xyz)
-
-### Ejemplo 
-En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
-
-[![WhatsApp](https://img.shields.io/badge/DyLux-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instabio.cc/fg98ff) 
-
-
-Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el idioma que quiere usar
-
-- [x] Español
-- [x] Indonesia
-- [x] Inglés
-- [x] Portugués
-- [x] Árabe
-- [ ] Idiomas que vendrán después
-
-***
-
-#### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FG98F/senna-bot)
-
-#### Heroku Buildpack
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
-
-### TERMUX
-1. 
-```sh
-$ pkg upgrade -y && pkg update -y
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/FG98F/senna-bot
-$ cd senna-bot
-$ npm i 
-$ npm start
+### `▢ ACTIVAR EN TERMUX` 
+- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
+cd && termux-setup-storage
 ```
-2. Esperar a que se inicie el bot...
-3. Escanea el código QR desde el segundo dispositivo. (ir a whatsapp > Dispositivos Vinculados > Vincular un dispositivo)
----------
 
+```bash
+apt-get update -y && apt-get upgrade -y
+```
 
-## BOXMINE
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+```
 
+```bash
+git clone https://github.com/The-DiosBot-MD/The-MikuBot-MDV3.git && cd The-MikuBot-MDV3
+```
 
+```bash
+yarn install
+```
 
-Instale el bot para que este activo 24/7
+```bash
+npm install
+```
 
----------
-* Create una cuenta  [`aquí`](https://dash.boxmineworld.com/register?ref=Mb0BN5ny)
-* Tutorial [`Click Aquí`](https://youtu.be/Vzk_X45bDIw?si=1UNQWa2B9w-xyBSm)
+```bash
+npm update
+```
 
-* Dashboard [`Click aquí`](https://dash.boxmineworld.com)
-* Panel [`Click aquí`](https://panel.boxmineworld.com/)
+```bash
+npm start
+```
 
----------
+### `▢ ACTIVAR EN CASO DE DETENERSE EN TERMUX`
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd The-MikuBot-MDV3
+> npm start
+```
+
+### `▢ OBTENER OTRO CODIGO QR EN TERMUX`
+- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A The-MikuBot-MDV3 $  
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd The-MikuBot-MDV3
+> rm -rf MikuSession
+> npm start
+```
+### `▢ NOTAS`
+- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO O QUE HUSTEDES NOS DIGAN ANTES
+ 
+ ### `▢ DUDAS SOBRE EL BOT?, CONTACTANOS`
+<a href="http://wa.me/595994836199" target="blank"><img src="https://img.shields.io/badge/Adrian Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595986637644" target="blank"><img src="https://img.shields.io/badge/COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595971253989" target="blank"><img src="https://img.shields.io/badge/COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595982216131" target="blank"><img src="https://img.shields.io/badge/COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+## `▢ COLABORADOR DEL BOT` 
+<a href="https://github.com/DavidOficial"><img src="https://github.com/DavidOficial.png" width="100" height="100" alt="DavidOficial"/></a>
+
+## `▢ EDITOR & PROPIETARIO DEL BOT` 
+<a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="250" height="250" alt="The-DiosBot-MD"/></a>
+  
+`The-MikuBot-MDV3 - By The-DiosBot-MD`

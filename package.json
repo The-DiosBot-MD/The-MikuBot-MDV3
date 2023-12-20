@@ -1,7 +1,7 @@
 { 
-    "name": "senna-bot",
+    "name": "the-mikubot-mdv3",
     "version": "3.0.0",
-    "description": "Customizable WhatsApp Bot",
+    "description": "The-DioBot-MD -- The-MikuBot-MDV3",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "senna-bot",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FG98F/senna-bot",
+    "homepage": "https://github.com/The-DiosBot-MD/The-MikuBot-MDV3",
     "author": {
-        "name": "FG98"
+        "name": "The-DiosBot-MD"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FG98F/senna-bot.git"
+        "url": "git+https://github.com/The-DiosBot-MD/The-MikuBot-MDV3.git"
     },
     "bugs": {
-        "url": "https://github.com/FG98F/senna-bot/issues"
+        "url": "https://github.com/The-DiosBot-MD/The-MikuBot-MDV3/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

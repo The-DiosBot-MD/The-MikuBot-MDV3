@@ -35,7 +35,7 @@ global.fgpyp = 'https://paypal.me/AdrianOficial'
 global.fglog = 'https://i.ibb.co/r7C0TNP/The-Miku-Bot-MD.jpgs'
 
 //--- Grupos WA
-global.fgcanal = 'https://whatsapp.com/channel/0029VaHgHki89inchum6qg3T'
+global.fgcanal = 'https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W'
 global.bgp = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI'
 global.bgp2 = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI'
 global.bgp3 = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //--GP NSFW

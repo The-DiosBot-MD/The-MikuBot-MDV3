@@ -1,5 +1,5 @@
 # `The-MikuBot-MDV3` 
-
+# ⚔️ © Powered By[VÍCTOR-BOT
 ### `▢ CUENTA OFICIAL`
 
 [  ] https://www.instagram.com/@adri.analegresanchez
@@ -102,4 +102,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `▢ EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="250" height="250" alt="The-DiosBot-MD"/></a>
   
-`The-MikuBot-MDV3 - By The-DiosBot-MD`
+`The-MikuBot-MDV3 - By[VÍCTOR-BOT`

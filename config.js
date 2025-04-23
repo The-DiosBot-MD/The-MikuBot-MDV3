@@ -3,15 +3,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['595976126756', 'The-MikuBot-MDV3', true],
-  ['595986637644', 'The-MikuBot-MDV3',true],
-  ['595971253989', 'The-MikuBot-MDV3',true],
-  ['595994825505', 'The-MikuBot-MDV3',true],
-  ['595976126756', 'The-MikuBot-MDV3',true],
+  ['59894243071', 'The-By[VÍCTOR-BOT-MDV3', true],
+  ['59896172320', 'The-By[VÍCTOR-BOT-MDV3',true],
+  ['59894243071', 'The-By[VÍCTOR-BOT-MDV3',true],
+  ['59896172320', 'The-By[VÍCTOR-BOT-MDV3',true],
+  ['59894243071', 'The-By[VÍCTOR-BOT-MDV3',true],
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['595994836199']
+global.prems = ['59894243071']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -23,11 +23,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃' 
+global.packname = '𝐓𝐡𝐞-By[VÍCTOR-BOT-𝐌𝐃' 
 global.author = '𝐴𝑑𝑟𝑖𝑎𝑛𝑂𝑓𝑖𝑐𝑖𝑎𝑙' 
 
 //--info FG
-global.botName = '𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃𝐕3'
+global.botName = '𝐓𝐡𝐞-By[VÍCTOR-BOT'
 global.fgig = 'https://www.instagram.com/adri.analegresanchez' 
 global.fgsc = 'https://github.com/The-DiosBot-MD/The-MikuBot-MDV3' 
 global.fgyt = 'https://youtube.com/AdrianOficial905'

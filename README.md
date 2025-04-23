@@ -1,4 +1,5 @@
-# `The-MikuBot-MDV3` 
+#`⚔©Powered By[VÍCTOR-BOT-MD
+` 
 
 ### `▢ CUENTA OFICIAL`
 
@@ -10,9 +11,9 @@
 
  ### `▢ BOTS OFICIALES`
 
-<a href="https://api.whatsapp.com/send/?phone=595994825505&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=59894243071&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://api.whatsapp.com/send/?phone=595982216131&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=59896172320&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `▢ DONAR`
 - SE AGRADECE CUAQLQUIER AYUDA VOLUNTARIA YA SEA CON UN NUMERO PARA EL BOT ETC.
@@ -91,15 +92,15 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO O QUE HUSTEDES NOS DIGAN ANTES
  
  ### `▢ DUDAS SOBRE EL BOT?, CONTACTANOS`
-<a href="http://wa.me/595994836199" target="blank"><img src="https://img.shields.io/badge/Adrian Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986637644" target="blank"><img src="https://img.shields.io/badge/COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595971253989" target="blank"><img src="https://img.shields.io/badge/COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595982216131" target="blank"><img src="https://img.shields.io/badge/COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59894243071" target="blank"><img src="https://img.shields.io/badge/Adrian Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59896172320" target="blank"><img src="https://img.shields.io/badge/COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59894243071" target="blank"><img src="https://img.shields.io/badge/COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59896172320" target="blank"><img src="https://img.shields.io/badge/COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59894243071" target="blank"><img src="https://img.shields.io/badge/COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## `▢ COLABORADOR DEL BOT` 
 > SIN COLAABORADORES
 ## `▢ EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="250" height="250" alt="The-DiosBot-MD"/></a>
   
-`The-MikuBot-MDV3 - By The-DiosBot-MD`
+`The-By[VÍCTOR-BOT-MDV3 - By The-⚔©Powered By[VÍCTOR-BOT-MD`
